@@ -1,0 +1,5 @@
+@import "../../../assets/core/grid.css";
+@import "../../../assets/core/color.css";
+.mainContainer{
+    background-color: var(--color-light-grey);
+}
